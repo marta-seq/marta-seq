@@ -8,7 +8,7 @@ I work at the intersection of computer science and biology and I'm especially in
 state-of-the-art data analysis and artificial intelligence techniques.
 
 
-:microscope:	:dna:	 :earth_africa: :books:  :mountain_snow: 🔭 🌱
+:microscope:	:dna:	 :earth_africa: :books:  :mountain_snow:  🌱
 
 📫 Professional Profiles:
   
